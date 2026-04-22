@@ -1,0 +1,3 @@
+# secrets.py
+WIFI_SSID = "OPPO A54"
+WIFI_PASS = "0123456789"

@@ -1,0 +1,15 @@
+# --- Archivos de Configuración Sensibles ---
+.env
+firmware_esp32/secrets.py
+
+# --- Datos Locales ---
+backend_rasp/datalog.json
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# --- Otros ---
+.DS_Store

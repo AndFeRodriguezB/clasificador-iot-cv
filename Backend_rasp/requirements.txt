@@ -1,0 +1,11 @@
+# Visión Artificial
+opencv-python
+
+# Procesamiento numérico
+numpy
+
+# Dashboard Web y Servidor
+flask
+
+# Gestión de variables de entorno
+python-dotenv
